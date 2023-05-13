@@ -4,8 +4,7 @@ body {
 	background: url("../images/bg-body.gif");
 	background-repeat:repeat-x;
 }
-#page {
-}
+
 #header {
 	width:960px;
 	height:72px;
@@ -19,7 +18,7 @@ body {
 #header a#logo img {
 	border:0;
 }
-/**-------------- Navigation style ---------------**/
+
   #header ul.navigation {
 	list-style-type:none;
 	margin:-82px 0 0 300px;
@@ -55,7 +54,7 @@ body {
 #header ul.navigation li a:hover {
 	color:#ffffff;
 }
-/**------------- Start of body style ----------------**/
+
   
   #body div.banner {
 	background:url("../images/dog.jpg");
@@ -153,7 +152,7 @@ body {
 	float:left;
 	margin-right:10px;
 }
-/**--------- Start of Blog Page Style **/	
+
     #body #content .content ul.articles {
 	list-tyle-type:none;
 	margin:80px 25px 0 0;
@@ -255,9 +254,7 @@ body {
 	display:inline-block;
 	width:20px;
 	height:20px;
-	margin-top:25px;/*
-	  *margin-top:0px; 
-	  */
+	margin-top:25px;
 	}
 #body #content .content ul.articles li a.facebook {
 	background:url("../images/icons.gif");
@@ -265,9 +262,7 @@ body {
 	background-repeat:no-repeat;
 	display:inline-block;
 	width:20px;
-	height:20px;/*
-	   *margin-top:0px;
-	   */
+	height:20px;
 	   
 	}
 #body #content .content ul.articles li a.twitter {
@@ -276,14 +271,9 @@ body {
 	background-repeat:no-repeat;
 	display:inline-block;
 	width:20px;
-	height:20px;/*
-	   *margin-top:0px;
-	   */
+	height:20px;
 	}
-/**--------- End of Blog Page Style **/	
-	
-  /**----------- Start of Pet Mart Page Style ----------**/
-  
+
   
   #body #content .search {
 	background:url("../images/bg-search-form2.gif");
@@ -327,11 +317,7 @@ body {
 	width:10px;
 	background:transparent;
 }
-/**----------- End of Pet Mart Page Style ----------**/
-  
-  
-  /**------------ Start of About page style  -------------**/
-  
+
   #body #content .content .about {
 	width:640px;
 	height:auto;
@@ -381,10 +367,7 @@ body {
 #body #content .content .about ul li p a:hover {
 	color:#7F7154;
 }
-/**------------ End of About page style  -------------**/
-  
-  /**---------------- Start for Contact Page Style ------------------**/
-  
+
   #body #content .content div p {
 	margin: 10px 0 0 30px;
 	padding:0 15px 0 0;
@@ -425,9 +408,7 @@ body {
 #body #content .content ul.connect li span a:hover {
 	color:#7F7154;
 }
-/**---------------- End for Contact Page Style ------------------**/
-  
-  /**---------------- Start for Pet guide Page Style ------------------**/
+
   
   #body #content .content ul.section {
 	margin:80px 0 0 30px;
@@ -490,12 +471,7 @@ body {
 	height:40px;
 	width:100px;
 }
-/**---------------- End for Pet guide Page Style ------------------**/
   
-  
-  
-  
- /** Start Sidebar style **/ 
   #body #content #sidebar {
 	float:left;
 	width:300px;
@@ -530,9 +506,7 @@ body {
 }
 #body #content #sidebar div#section div div ul {
 	list-style-type:none;
-	margin-left:20px;/*
-	  *margin-left:50px;
-	  */
+	margin-left:20px;
    }
 #body #content #sidebar div#section div div ul li {
 	margin-bottom:5px;
@@ -574,17 +548,12 @@ body {
 #body #content #sidebar div#section div div ul.archive li ul li {
 	background-image:none;
 	height:20px;
-	/*
-	   *height:0px;
-	   */
+
 	   padding:0;
 }
 #body #content #sidebar div#section div div ul.archive li ul {
 	margin:0 0 30px -20px;
-	/*
-		* margin:0 0 50px -20px;
-		*padding-left:40px;
-		*/
+
          background:url("../images/top-border-long.gif");
 	background-position:top center;
 	background-repeat:no-repeat;
@@ -592,9 +561,6 @@ body {
 #body #content #sidebar div#section div div ul.archive li ul li a {
 	background-image:none;
 	display:inline-block;
-	/*
-	   *line-height:30px;
-	   */
 	   color:#7F7154;
 }
 #body #content #sidebar div#section div div ul.archive li ul li a:hover {
@@ -699,10 +665,7 @@ body {
 	margin:0 0 0 10px;
 	font-family:"Myriad Pro";
 	width:210px;
-	/*
-	  _width:200px;
-	  */
-	  float:left;
+	float:left;
 }
 #body #content #sidebar .section .aside div div ul li a:hover {
 	color:#e4a217;
@@ -754,7 +717,6 @@ body {
 #body #content #sidebar .section ul.navigation li a:hover {
 	color:#7F7154;
 }
-/**---- Start of sidebar featured style----**/
     #body #content #sidebar .featured {
 	width:300px;
 	height:auto;
@@ -824,7 +786,7 @@ body {
 #body #content #sidebar .featured ul li p a.more:hover {
 	color:#7F7154;
 }
-/**---------------- Start of sidebar connect style ------------------**/
+
    
     #body #content #sidebar .connect {
 	width:300px;
@@ -892,9 +854,7 @@ body {
 	opacity:0.8;
 	filter:alpha(opacity=80);
 }
-/**------------------------ End of sidebar style  ----------------------**/
-   
-  /**----------- Start of featured Style -------------**/ 
+
    #body .featured {
 	background-color:#f8f3e9;
 	height:90px;
@@ -925,7 +885,7 @@ body {
 #body .featured ul li a img {
 	border:0;
 }
-/**--------------- Start of footer style ------------------**/
+
    #footer {
 	background-color:#310000;
 	background-image:none;
@@ -956,9 +916,7 @@ body {
 	left:0;
 	z-index:10;
 	padding: 0 10px 0 15px;
-	margin:20px 0 -15px 0;/*
-	  *margin:30px 0 -20px 0;
-	  */
+	margin:20px 0 -15px 0;
 	 
    }
 #footer .section ul li h2 a {
